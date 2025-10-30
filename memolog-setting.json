@@ -40,19 +40,25 @@
 			"showIcon": true
 		}
 	],
-	"defaultCategory": "work",
+	"defaultCategory": "random",
 	"saveUnit": "day",
 	"order": "desc",
 	"enableDailyNotes": false,
 	"rootDirectory": "public/memolog",
 	"memoTemplate": "{{content}}",
-	"pathFormat": "%C/%Y%m%d.md",
+	"pathFormat": "%Y%m%d-%C",
 	"attachmentPath": "./attachments",
 	"attachmentNameFormat": "pasted-%s-%f%e",
 	"searchHistoryMaxSize": 50,
-	"showAllTab": true,
-	"enableTrash": false,
-	"trashFilePath": "_trash",
+	"showAllTab": false,
+	"enableTrash": true,
 	"trashRetentionDays": 30,
-	"showTrashTab": false
+	"showTrashTab": true,
+	"pinnedMemoIds": [
+		"019a33f6-13a6-777e-ba1d-1015ebfbb1e3",
+		"019a3405-5c93-7346-9e1a-f27e073188a5",
+		"019a32c4-ddc2-73fa-8730-e767a7509d42"
+	],
+	"showPinnedTab": true,
+	"trashFilePath": "_trash"
 }
