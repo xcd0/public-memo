@@ -52,7 +52,7 @@
 	"enableDailyNotes": false,
 	"rootDirectory": "public/memolog",
 	"memoTemplate": "{{content}}",
-	"pathFormat": "%C/%Y%m%d",
+	"pathFormat": "%Y-%m-%d/memo.md",
 	"attachmentPath": "./attachments",
 	"attachmentNameFormat": "pasted-%s-%f%e",
 	"searchHistoryMaxSize": 50,
