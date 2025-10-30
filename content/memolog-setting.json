@@ -4,14 +4,33 @@
 		{
 			"name": "仕事",
 			"directory": "work",
-			"color": "#3b82f6",
+			"color": "#f97316",
 			"icon": "briefcase"
 		},
 		{
-			"name": "趣味",
-			"directory": "hobby",
-			"color": "#22c55e",
-			"icon": "gamepad-2"
+			"name": "",
+			"directory": "random",
+			"color": "#3b82f6",
+			"icon": "lucide-twitter"
+		},
+		{
+			"name": "メモ",
+			"directory": "memo",
+			"color": "#ec4899",
+			"icon": "lucide-clipboard-pen"
+		},
+		{
+			"name": "",
+			"directory": "selfmade",
+			"color": "#a855f7",
+			"icon": "hammer"
+		},
+		{
+			"name": "",
+			"directory": "todo",
+			"color": "#ef4444",
+			"icon": "lucide-list-checks",
+			"useTodoList": true
 		},
 		{
 			"name": "",
@@ -19,25 +38,6 @@
 			"color": "#6b7280",
 			"icon": "lucide-smartphone",
 			"showIcon": true
-		},
-		{
-			"name": "自作",
-			"directory": "selfmade",
-			"color": "#a855f7",
-			"icon": "palette"
-		},
-		{
-			"name": "todo",
-			"directory": "todo",
-			"color": "#ef4444",
-			"icon": "lucide-list-checks",
-			"useTodoList": true
-		},
-		{
-			"name": "書き捨て",
-			"directory": "random",
-			"color": "#3b82f6",
-			"icon": "zap"
 		}
 	],
 	"defaultCategory": "work",
@@ -51,7 +51,7 @@
 	"attachmentNameFormat": "pasted-%s-%f%e",
 	"searchHistoryMaxSize": 50,
 	"showAllTab": true,
-	"enableTrash": true,
+	"enableTrash": false,
 	"trashFilePath": "_trash",
 	"trashRetentionDays": 30,
 	"showTrashTab": false
