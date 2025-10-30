@@ -21,12 +21,6 @@
 			"showIcon": true
 		},
 		{
-			"name": "",
-			"directory": "idea",
-			"color": "#eab308",
-			"icon": "lucide-lightbulb"
-		},
-		{
 			"name": "自作",
 			"directory": "selfmade",
 			"color": "#a855f7",
@@ -52,7 +46,7 @@
 	"enableDailyNotes": false,
 	"rootDirectory": "public/memolog",
 	"memoTemplate": "{{content}}",
-	"pathFormat": "%Y-%m-%d/memo.md",
+	"pathFormat": "%C/%Y%m%d.md",
 	"attachmentPath": "./attachments",
 	"attachmentNameFormat": "pasted-%s-%f%e",
 	"searchHistoryMaxSize": 50,
@@ -60,5 +54,5 @@
 	"enableTrash": true,
 	"trashFilePath": "_trash",
 	"trashRetentionDays": 30,
-	"showTrashTab": true
+	"showTrashTab": false
 }
