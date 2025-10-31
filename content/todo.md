@@ -1,3 +1,5 @@
+<!-- memo-id: 019a37f5-c47b-705b-ae36-d0ac112187a4, timestamp: 2025-10-31T01:50:44.859Z, category: "todo", template: "{{content}}" -->
+- [ ] test
 <!-- memo-id: 019a338e-51e6-733e-aafe-79a498e6dac1, timestamp: 2025-10-30T05:19:16.454Z, category: "todo", template: "{{content}}" -->
 このカテゴリはTODOリスト。新規投稿は自動でチェックボックスが付与される。チェックを入れると非表示になる。
 
