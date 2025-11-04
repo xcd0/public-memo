@@ -1,5 +1,3 @@
-<!-- memo-id: 019a4c99-8805-704f-b837-afb56e80c899, timestamp: 2025-11-04T11:02:01.606+09:00, category: "memo", template: "{{content}}" -->
-メールアカウントがとっ散らかっているので整理したい
 <!-- memo-id: 019a33fd-e0f5-72cf-b236-97fa48737941, timestamp: 2025-10-30T07:21:07.573Z, category: "memo", template: "{{content}}" -->
 ここは twitter よりはちょっと硬い感じにしたい
 

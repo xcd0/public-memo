@@ -1,3 +1,7 @@
+<!-- memo-id: 019a4c99-8805-704f-b837-afb56e80c899, timestamp: 2025-11-04T11:02:01.606+09:00, category: "todo", template: "{{content}}" -->
+- [ ] メールアカウントがとっ散らかっているので整理したい
+  - [x] とりあえず@hato.lifeを活用するようにした。
+  - [ ] 各アカウントのメールアドレスを@hato.lifeに変更する必要がある。
 <!-- memo-id: 019a338e-51e6-733e-aafe-79a498e6dac1, timestamp: 2025-10-30T05:19:16.454Z, category: "todo", template: "{{content}}" -->
 このカテゴリはTODOリスト。新規投稿は自動でチェックボックスが付与される。チェックを入れると非表示になる。
 
