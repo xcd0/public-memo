@@ -1,5 +1,5 @@
-<!-- memo-id: 019a3836-5a9d-7034-9986-2f00bccd9837, timestamp: 2025-10-31T03:01:17.597Z, category: "memo", template: "{{content}}" -->
-https://chatgpt.com/share/6903022e-3d64-800e-8940-3d9057c66d72
+<!-- memo-id: 019a4c99-8805-704f-b837-afb56e80c899, timestamp: 2025-11-04T11:02:01.606+09:00, category: "memo", template: "{{content}}" -->
+メールアカウントがとっ散らかっているので整理したい
 <!-- memo-id: 019a33fd-e0f5-72cf-b236-97fa48737941, timestamp: 2025-10-30T07:21:07.573Z, category: "memo", template: "{{content}}" -->
 ここは twitter よりはちょっと硬い感じにしたい
 
@@ -10,3 +10,6 @@ zは非公開/公開にかかわらない感じ
 デジタルガーデンは公開する部分の話の模様
 
 基本部分はzで公開部分をデジタルガーデンにするのが良いみたい
+
+<!-- memo-id: 019a3836-5a9d-7034-9986-2f00bccd9837, timestamp: 2025-10-31T03:01:17.597Z, category: "memo", template: "{{content}}" -->
+https://chatgpt.com/share/6903022e-3d64-800e-8940-3d9057c66d72
