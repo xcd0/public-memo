@@ -49,10 +49,10 @@
 	"attachmentPath": "./attachments",
 	"attachmentNameFormat": "pasted-%s-%f%e",
 	"searchHistoryMaxSize": 50,
-	"showAllTab": false,
+	"showAllTab": true,
 	"enableTrash": true,
 	"trashRetentionDays": 30,
-	"showTrashTab": false,
+	"showTrashTab": true,
 	"pinnedMemoIds": [
 		"019a24be-86a7-774a-8f5e-9a4e657c8928",
 		"019a33f6-13a6-777e-ba1d-1015ebfbb1e3",
@@ -62,6 +62,9 @@
 	],
 	"showPinnedTab": false,
 	"logLevel": "info",
+	"collapsedThreads": [
+		"019a4d95-ba98-744c-887a-cf5ce7793e01"
+	],
 	"enableDailyNotes": false,
 	"trashFilePath": "_trash"
 }
