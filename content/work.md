@@ -79,5 +79,3 @@ test
 <!-- memo-id: 019a38d4-3155-77a7-b171-38795d3c6f93, timestamp: 2025-10-31T05:53:41.717Z, category: "work", template: "{{content}}" -->
 test-2
 
-<!-- memo-id: 019a38d5-64a4-73bd-bd16-bd001566a26d, timestamp: 2025-10-31T14:55:00.388+09:00, category: "work", template: "{{content}}" -->
-test-3
