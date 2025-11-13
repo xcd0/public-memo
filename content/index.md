@@ -8,10 +8,10 @@ This is my published notes.
 
 ## Recent Notes
 
+- [[/work|work]]
 - [[/random|random]]
 - [[/todo|todo]]
-- [[/memo|memo]]
-- [[/work|work]]
-- [[/selfmade|selfmade]]
 - [[/mobile|mobile]]
+- [[/selfmade|selfmade]]
+- [[/memo|memo]]
 

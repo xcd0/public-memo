@@ -4,8 +4,15 @@
 		{
 			"name": "",
 			"directory": "work",
-			"color": "#f97316",
+			"color": "#ef4444",
 			"icon": "briefcase"
+		},
+		{
+			"name": "",
+			"directory": "work-todo",
+			"color": "#ef4444",
+			"icon": "lucide-list-todo",
+			"useTodoList": true
 		},
 		{
 			"name": "",
@@ -15,56 +22,46 @@
 		},
 		{
 			"name": "",
-			"directory": "memo",
-			"color": "#ec4899",
-			"icon": "lucide-clipboard-pen"
-		},
-		{
-			"name": "",
 			"directory": "selfmade",
-			"color": "#a855f7",
-			"icon": "hammer"
+			"color": "#eab308",
+			"icon": "lucide-hammer"
 		},
 		{
 			"name": "",
 			"directory": "todo",
-			"color": "#ef4444",
-			"icon": "lucide-list-checks",
+			"color": "#eab308",
+			"icon": "lucide-list-todo",
 			"useTodoList": true
 		},
 		{
 			"name": "",
 			"directory": "mobile",
-			"color": "#6b7280",
-			"icon": "lucide-smartphone",
-			"showIcon": true
+			"color": "#14b8a6",
+			"icon": "lucide-tablet-smartphone"
 		}
 	],
 	"defaultCategory": "random",
-	"saveUnit": "day",
-	"order": "desc",
+	"order": "asc",
 	"rootDirectory": "public/memolog",
 	"memoTemplate": "{{content}}",
 	"pathFormat": "%C.md",
 	"attachmentPath": "./attachments",
 	"attachmentNameFormat": "pasted-%s-%f%e",
 	"searchHistoryMaxSize": 50,
-	"showAllTab": true,
+	"showAllTab": false,
 	"enableTrash": true,
 	"trashRetentionDays": 30,
 	"showTrashTab": true,
 	"pinnedMemoIds": [
-		"019a24be-86a7-774a-8f5e-9a4e657c8928",
 		"019a33f6-13a6-777e-ba1d-1015ebfbb1e3",
-		"019a33fd-e0f5-72cf-b236-97fa48737941",
+		"019a2d36-8a0b-7602-9d6e-eff021e9b2fc",
 		"019a338e-51e6-733e-aafe-79a498e6dac1",
-		"019a2d36-8a0b-7602-9d6e-eff021e9b2fc"
+		"019a33b5-84e8-7146-8c34-0e968f72543a",
+		"019a24be-86a7-774a-8f5e-9a4e657c8928",
+		"019a3405-5c93-7346-9e1a-f27e073188a5"
 	],
-	"showPinnedTab": false,
+	"showPinnedTab": true,
 	"logLevel": "info",
-	"collapsedThreads": [
-		"019a4d95-ba98-744c-887a-cf5ce7793e01"
-	],
-	"enableDailyNotes": false,
-	"trashFilePath": "_trash"
+	"collapsedThreads": [],
+	"saveUnit": "day"
 }

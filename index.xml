@@ -9,13 +9,25 @@
     <title>random</title>
     <link>https://quartz.jzhao.xyz/random</link>
     <guid>https://quartz.jzhao.xyz/random</guid>
-    <description><![CDATA[  返信実装テスト。これは子投稿4。 2025-11-04 16:17 返信実装テスト。これは子投稿4。 返信実装テスト。これは子投稿3。 返信実装テスト。これは子投稿2。 返信実装テスト。これは子投稿1。 返信実装テスト。これは最も先祖の投稿。 twitterはここに復活した カテゴリタブは横に長くなりがちで、はみ出してしまう。デフォルトはここにして、後からカテゴリを変更するのが良さげ。 さっさと片づけたい ビルド長い test test test-3 削除テスト 削除テスト子投稿. ]]></description>
-    <pubDate>Tue, 04 Nov 2025 07:14:07 GMT</pubDate>
+    <description><![CDATA[  ⇒ ⇒ ⇒ twitterはここに復活した カテゴリタブは横に長くなりがちで、はみ出してしまう。デフォルトはここにして、後からカテゴリを変更するのが良さげ。 . ]]></description>
+    <pubDate>Wed, 05 Nov 2025 04:18:44 GMT</pubDate>
+  </item><item>
+    <title>todo</title>
+    <link>https://quartz.jzhao.xyz/todo</link>
+    <guid>https://quartz.jzhao.xyz/todo</guid>
+    <description><![CDATA[  test 2025-11-04 16:21 test test メールアカウントがとっ散らかっているので整理したい とりあえず@hato.lifeを活用するようにした。 各アカウントのメールアドレスを@hato.lifeに変更する必要がある。 このカテゴリはTODOリスト。新規投稿は自動でチェックボックスが付与される。チェックを入れると非表示になる。 todo-2 a todoは良さそう ちゃんとチェックボックスが付与される、チェックしたら消える、allからは表示される test 2025-11-10 11:43:46 child test. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 04:18:44 GMT</pubDate>
+  </item><item>
+    <title>work</title>
+    <link>https://quartz.jzhao.xyz/work</link>
+    <guid>https://quartz.jzhao.xyz/work</guid>
+    <description><![CDATA[  このカテゴリは非公開投稿予定. ]]></description>
+    <pubDate>Wed, 05 Nov 2025 04:18:44 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ Welcome This is my published notes. Recent Notes random todo memo work selfmade mobile . ]]></description>
+    <description><![CDATA[ Welcome This is my published notes. Recent Notes work random todo mobile selfmade memo . ]]></description>
     <pubDate>Tue, 04 Nov 2025 06:46:45 GMT</pubDate>
   </item><item>
     <title>memo</title>
@@ -24,22 +36,10 @@
     <description><![CDATA[  ここは twitter よりはちょっと硬い感じにしたい ツェッテルカステン(zettelkasten)というのがあるが、デジタルガーデンとどう違うのか zは非公開/公開にかかわらない感じ デジタルガーデンは公開する部分の話の模様 基本部分はzで公開部分をデジタルガーデンにするのが良いみたい chatgpt.com/share/6903022e-3d64-800e-8940-3d9057c66d72. ]]></description>
     <pubDate>Tue, 04 Nov 2025 06:46:45 GMT</pubDate>
   </item><item>
-    <title>todo</title>
-    <link>https://quartz.jzhao.xyz/todo</link>
-    <guid>https://quartz.jzhao.xyz/todo</guid>
-    <description><![CDATA[  test 2025-11-04 16:21 test test メールアカウントがとっ散らかっているので整理したい とりあえず@hato.lifeを活用するようにした。 各アカウントのメールアドレスを@hato.lifeに変更する必要がある。 このカテゴリはTODOリスト。新規投稿は自動でチェックボックスが付与される。チェックを入れると非表示になる。 todo-2 a todoは良さそう ちゃんとチェックボックスが付与される、チェックしたら消える、allからは表示される test . ]]></description>
-    <pubDate>Tue, 04 Nov 2025 06:46:45 GMT</pubDate>
-  </item><item>
     <title>selfmade</title>
     <link>https://quartz.jzhao.xyz/selfmade</link>
     <guid>https://quartz.jzhao.xyz/selfmade</guid>
     <description><![CDATA[  memologにスレッド機能をつけたい ここは創作関連にしたい memologの変換処理の際、memologのroot以下にmemologでないファイルがあるとそのファイルが消え、今日の投稿として内容が展開される模様。 memologやはりまだ実用的とは言えない 使えなくはないが 既存カテゴリ名の変更は既存投稿のカテゴリ名を書き換える機能があったほうがつかいやすい気はする todoリスト機能をつけたい shift enterで送信するが ctrl enterでも送信したい ゴミ箱機能をつけたい 削除した投稿がゴミ箱専用ファイルに保持される カテゴリなどの情報もそのまま単に移動させる 設定から... ]]></description>
-    <pubDate>Tue, 04 Nov 2025 03:58:22 GMT</pubDate>
-  </item><item>
-    <title>work</title>
-    <link>https://quartz.jzhao.xyz/work</link>
-    <guid>https://quartz.jzhao.xyz/work</guid>
-    <description><![CDATA[  メール対応しないとだめ このカテゴリは非公開投稿予定 bbb asdfasdfgasfasfasdfa aaa bbb qqq 2025/10/29-10:59:30 asdfg 2025-10-29 10:59:42 qwert hhh eeee fff ggg hhh iii jjj kkk lll mmm nnn ooo ppp qqq eeeee eee test test-2. ]]></description>
     <pubDate>Tue, 04 Nov 2025 03:58:22 GMT</pubDate>
   </item><item>
     <title>mobile</title>

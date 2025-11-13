@@ -54,5 +54,7 @@ ctrl enterでも送信したい
 <!-- memo-id: 019a37e7-7285-77ec-8fd3-fc064decf6c9, timestamp: 2025-10-31T01:35:06.373Z, category: "selfmade", template: "{{content}}" -->
 - [x] ゴミ箱のタブのラベルのゴミ箱の文字列を削除したい
 
-<!-- memo-id: 019a3804-e63f-70ee-80c1-c6f5c0fea4d6, timestamp: 2025-10-31T02:07:16.543Z, category: "selfmade", template: "{{content}}" -->
+<!-- memo-id: 019a3804-e63f-70ee-80c1-c6f5c0fea4d6, timestamp: 2025-10-31T02:07:16.543Z, category: "selfmade", template: "{{content}}", deleted: "true", trashedAt: "2025-11-10T11:50:46.774+09:00" -->
+<!--
 test
+-->
